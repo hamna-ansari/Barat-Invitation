@@ -9,10 +9,8 @@
 window.InvitationContent = {
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=Iqbal%20Marquee%206F2H%2B64X%20Water%20Works%20Road%20Qila%20Kuhna%20Qasim%20Bagh%20Multan",
-contacts: [
-  "Ajaz Ansari +92 3197831338",
-  "Dr. Abdullah Muhammad +92 322 6646764",
-],  eventTimes: ["7:00", "8:00", "9:00", "10:00"],
+  contacts: ["03XX XXXXXXX", "03XX XXXXXXX"],
+  eventTimes: ["7:00", "8:00", "9:00", "10:00"],
   guests: [
     ["Ahmed", "احمد"],
     ["Khan", "خان"],
