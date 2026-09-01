@@ -1,0 +1,10 @@
+FIX MISSING FLOWERS ON ANDROID / CHROME
+
+1. Extract this ZIP.
+2. Open https://github.com/hamna-ansari/Barat-Invitation
+3. Choose Add file > Upload files.
+4. Upload BOTH index.html and floral-paper.png into the main repository folder. Replace the existing index.html; keep both filenames exactly as provided. Do not upload the ZIP itself.
+5. Commit changes and wait for GitHub Pages to finish publishing.
+6. Reload the invitation. If it looks unchanged, open it in a new private/incognito tab.
+
+The image is the exact original PNG, extracted without modification. The JavaScript and invitation design are unchanged. The oversized CSS variable was replaced with a normal relative image URL.
